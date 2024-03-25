@@ -38,7 +38,6 @@
 #include "runtime/os.hpp"
 #include "runtime/sharedRuntime.hpp"
 #include "runtime/stubRoutines.hpp"
-#include "utilities/checkedCast.hpp"
 #include "utilities/globalDefinitions.hpp"
 
 int C1_MacroAssembler::lock_object(Register hdr, Register obj, Register disp_hdr, Register tmp, Label& slow_case) {

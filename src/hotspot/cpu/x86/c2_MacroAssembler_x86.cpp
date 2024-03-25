@@ -36,7 +36,6 @@
 #include "runtime/globals.hpp"
 #include "runtime/objectMonitor.hpp"
 #include "runtime/stubRoutines.hpp"
-#include "utilities/checkedCast.hpp"
 #include "utilities/globalDefinitions.hpp"
 #include "utilities/powerOfTwo.hpp"
 #include "utilities/sizes.hpp"
